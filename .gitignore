@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime data (keep directories but ignore contents)
+logs/*
+!logs/.gitkeep
+
+memory/history/*
+!memory/history/.gitkeep
+
+memory/sessions/*
+!memory/sessions/.gitkeep
+
+memory/projects/*
+!memory/projects/.gitkeep
+
+memory/agents/*
+!memory/agents/.gitkeep
+
+memory/user/*
+!memory/user/.gitkeep
+
+deliverables/code/*
+!deliverables/code/.gitkeep
+
+deliverables/research/*
+!deliverables/research/.gitkeep
+
+deliverables/reviews/*
+!deliverables/reviews/.gitkeep
+
+# Environment variables
+.env
+.env.local
